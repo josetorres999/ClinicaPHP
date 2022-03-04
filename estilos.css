@@ -1,0 +1,14 @@
+#padre{
+    display: flex;
+    flex-direction: row;
+}
+
+#lado{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+}
+
+table, tr{
+    border: solid black 1px;
+}
